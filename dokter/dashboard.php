@@ -58,6 +58,7 @@
             <a href="data.php">📁 Data</a>
             <a href="pemeriksaan.php">📝 Pemeriksaan</a>
         </div>
+<<<<<<< HEAD
 
         <!-- Konten Dashboard -->
         <div class="content">
@@ -144,3 +145,12 @@
         </div>
     </body>
     </html>
+=======
+    </nav>
+    <div class="container mt-4">
+        <h2>Welcome Dokter!</h2>
+        <p>Anda dapat melihat data pasien di sini.</p>
+    </div>
+</body>
+</html>
+>>>>>>> eb27b09aa5e1cb409b7342040198a08333efc767
